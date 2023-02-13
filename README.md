@@ -1,4 +1,4 @@
-<h1>Password-Cracking-Dictionary-attack-</h1>
+<h1>Password Cracking Dictionary Attack-</h1>
 
 
 <h2>Description</h2>
